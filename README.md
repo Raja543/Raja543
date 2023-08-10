@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning Backend Development
 - 💬 Ask me about Web Development, Arficial intelligenece and blockchain 
--📫 How to reach me? rajakumarmahto952@gmail.com
+- 📫 How to reach me? rajakumarmahto952@gmail.com
 - Portfolio Website : https://rajakumarweb.me
 
 
