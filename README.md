@@ -1,5 +1,11 @@
-# 💫 About Me:
-🌱 I'm currently learning Backend Development<br><br>💬 Ask me about Front-End Development, open source. <br><br>📫 How to reach me? rajakumarmahto952@gmail.com<br><br>All of my projects are available at @portfoliolink<br><br>⚡ Fun Fact: I love memes
+<h1 align="center">Hi 👋, I'm Raja Kumar</h1>
+<h3 align="center">A passionate full Stack developer from India</h3>
+
+
+- 🌱 I'm currently learning Backend Development
+- 💬 Ask me about Web Development, Arficial intelligenece and blockchain 
+-📫 How to reach me? rajakumarmahto952@gmail.com
+- Portfolio Website : https://rajakumarweb.me
 
 
 ## 🌐 Socials:
