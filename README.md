@@ -17,7 +17,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Raja543&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raja543&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![My Stats](https://drive.google.com/uc?export=view&id=d/1jQtYNXjCb4T2LpVpLk5g-S5VTIrGwGhm/)
+![My Stats](https://drive.google.com/uc?export=view&id=d/1jQtYNXjCb4T2LpVpLk5g-S5VTIrGwGhm)
 
 
 
